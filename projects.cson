@@ -13,3 +13,8 @@
   'paths': [
     '/Users/denysbutenko/dev/scrapy'
   ]
+'dotfiles':
+  'title': 'dotfiles'
+  'paths': [
+    '/Users/denysbutenko/dotfiles'
+  ]
