@@ -1,0 +1,4 @@
+atom-dotfiles
+=============
+
+Atom dotfiles
