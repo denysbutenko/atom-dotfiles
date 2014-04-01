@@ -1,0 +1,32 @@
+'exception-reporting':
+  'userId': '3755e756-65f2-5422-ae66-8b0acc3426cf'
+'release-notes':
+  'viewedVersion': '0.81.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '17370acd07e7a556391cd8704c93d7592c9520e9'
+'editor':
+  'fontFamily': 'Source Code Pro'
+  'fontSize': 16
+'core':
+  'themes': [
+    'soda-light-ui'
+    'tomorrow-night-eighties-syntax'
+  ]
+  'ignoredNames': [
+    '.git'
+    '.svn'
+    '.DS_Store'
+    '.pyc'
+  ]
+  'projectHome': '/Users/denysbutenko/dev/'
+'markdown-preview':
+  'grammars': [
+    'source.gfm'
+    'source.litcoffee'
+    'text.plain'
+    'text.plain.null-grammar'
+  ]
+'django-templates':
+  'defaultToDjangoTemplatesForFilePathsContaining': 'templates'

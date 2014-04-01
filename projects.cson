@@ -1,0 +1,15 @@
+'store':
+  'title': 'store'
+  'paths': [
+    '/Users/denysbutenko/dev/store'
+  ]
+'twisted':
+  'title': 'twisted'
+  'paths': [
+    '/Users/denysbutenko/dev/twisted'
+  ]
+'scrapy':
+  'title': 'scrapy'
+  'paths': [
+    '/Users/denysbutenko/dev/scrapy'
+  ]
