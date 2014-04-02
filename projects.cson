@@ -18,3 +18,8 @@
   'paths': [
     '/Users/denysbutenko/dotfiles'
   ]
+'homebrew-cask':
+  'title': 'homebrew-cask'
+  'paths': [
+    '/Users/denysbutenko/dev/homebrew-cask'
+  ]
