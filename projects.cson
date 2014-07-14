@@ -1,8 +1,3 @@
-'store':
-  'title': 'store'
-  'paths': [
-    '/Users/denysbutenko/dev/store'
-  ]
 'twisted':
   'title': 'twisted'
   'paths': [
@@ -22,4 +17,14 @@
   'title': 'homebrew-cask'
   'paths': [
     '/Users/denysbutenko/dev/homebrew-cask'
+  ]
+'store':
+  'title': 'store'
+  'paths': [
+    '/Users/denysbutenko/dev/store'
+  ]
+'soc':
+  'title': 'soc'
+  'paths': [
+    '/Users/denysbutenko/dev/soc'
   ]
