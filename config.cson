@@ -1,7 +1,7 @@
 'exception-reporting':
   'userId': '3755e756-65f2-5422-ae66-8b0acc3426cf'
 'release-notes':
-  'viewedVersion': '0.81.0'
+  'viewedVersion': '0.94.0'
 'welcome':
   'showOnStartup': false
 'metrics':
@@ -32,3 +32,10 @@
   ]
 'django-templates':
   'defaultToDjangoTemplatesForFilePathsContaining': 'templates'
+'git-diff':
+  'showIconsInEditorGutter': true
+'autocomplete-plus':
+  'enableAutoActivation': false
+'project-manager':
+  'closeCurrent': true
+  'showPath': true
