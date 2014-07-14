@@ -7,8 +7,8 @@
 'metrics':
   'userId': '17370acd07e7a556391cd8704c93d7592c9520e9'
 'editor':
-  'fontFamily': 'SourceCodePro-Light'
   'fontSize': 16
+  'fontFamily': 'Monaco'
 'core':
   'themes': [
     'soda-light-ui'
