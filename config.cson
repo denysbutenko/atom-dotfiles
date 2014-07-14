@@ -21,6 +21,7 @@
     '.pyc'
   ]
   'projectHome': '/Users/denysbutenko/dev/'
+  'useReactEditor': true
 'markdown-preview':
   'grammars': [
     'source.gfm'
