@@ -22,6 +22,9 @@
     '.pyc'
   ]
   'projectHome': '/Users/denysbutenko/dev/'
+  'disabledPackages': [
+    'autocomplete'
+  ]
   'useReactEditor': true
 'markdown-preview':
   'grammars': [
@@ -34,8 +37,7 @@
   'defaultToDjangoTemplatesForFilePathsContaining': 'templates'
 'git-diff':
   'showIconsInEditorGutter': true
-'autocomplete-plus':
-  'enableAutoActivation': false
+'autocomplete-plus': {}
 'project-manager':
   'closeCurrent': true
   'showPath': true
