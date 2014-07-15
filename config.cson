@@ -12,8 +12,8 @@
   'lineHeight': 1.2
 'core':
   'themes': [
-    'soda-light-ui'
     'tomorrow-night-eighties-syntax'
+    'atom-light-ui'
   ]
   'ignoredNames': [
     '.git'
