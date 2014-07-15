@@ -1,30 +1,36 @@
 'twisted':
   'title': 'twisted'
+  'icon': 'icon-repo'
   'paths': [
     '/Users/denysbutenko/dev/twisted'
   ]
 'scrapy':
   'title': 'scrapy'
+  'icon': 'icon-repo'
   'paths': [
     '/Users/denysbutenko/dev/scrapy'
   ]
 'dotfiles':
   'title': 'dotfiles'
+  'icon': 'icon-repo'
   'paths': [
     '/Users/denysbutenko/dotfiles'
   ]
 'homebrew-cask':
   'title': 'homebrew-cask'
+  'icon': 'icon-repo'
   'paths': [
     '/Users/denysbutenko/dev/homebrew-cask'
   ]
 'store':
   'title': 'store'
+  'icon': 'icon-repo'
   'paths': [
     '/Users/denysbutenko/dev/store'
   ]
 'soc':
   'title': 'soc'
+  'icon': 'icon-squirrel'
   'paths': [
     '/Users/denysbutenko/dev/soc'
   ]
