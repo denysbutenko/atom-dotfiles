@@ -41,6 +41,7 @@
 'project-manager':
   'closeCurrent': true
   'showPath': true
+  'sortByTitle': true
 'base16-syntax':
   'scheme': 'eighties'
 'tree-view':
