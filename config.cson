@@ -46,3 +46,5 @@
   'scheme': 'eighties'
 'tree-view':
   'showOnRightSide': true
+'linter':
+  'showStatusBarWhenCursorIsInErrorRange': true
