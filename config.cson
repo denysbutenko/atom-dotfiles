@@ -36,7 +36,7 @@
 'django-templates':
   'defaultToDjangoTemplatesForFilePathsContaining': 'templates'
 'git-diff':
-  'showIconsInEditorGutter': true
+  'showIconsInEditorGutter': false
 'autocomplete-plus': {}
 'project-manager':
   'closeCurrent': true
