@@ -43,3 +43,5 @@
   'showPath': true
 'base16-syntax':
   'scheme': 'eighties'
+'tree-view':
+  'showOnRightSide': true
