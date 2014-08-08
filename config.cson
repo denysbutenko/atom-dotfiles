@@ -12,8 +12,8 @@
   'lineHeight': 1.2
 'core':
   'themes': [
-    'atom-light-ui'
-    'tomorrow-night-eighties'
+    'atom-soda-dark-ui'
+    'base16-syntax'
   ]
   'ignoredNames': [
     '.git'
@@ -41,3 +41,5 @@
 'project-manager':
   'closeCurrent': true
   'showPath': true
+'base16-syntax':
+  'scheme': 'eighties'

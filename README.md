@@ -4,4 +4,4 @@ atom-dotfiles
 Atom dotfiles
 
 ## Screenshot
-![Soda Light with Tomorrow Night Eighties](https://raw.github.com/denysbutenko/atom-dotfiles/master/screenshots/soda.png)
+![Atom Dark Soda with Base16 Eighties](screenshots/atom-dark-soda.png)
