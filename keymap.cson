@@ -18,3 +18,5 @@
 #
 'body':
   'shift-cmd-W': 'pane:close-other-items'
+'.editor':
+  'f5': 'sort-lines:sort'
